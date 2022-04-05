@@ -95,4 +95,7 @@ a {
     .seven .p {
         align-self: center;
     }
+    .seven h1 {
+        margin-top: 52px;
+    }
 }
